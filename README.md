@@ -5,6 +5,7 @@ Instructions:
 from root directory of project:
 
 ```
+open .env file and fill in 'API_KEY' value with api key for Silk api
 mkdir output
 docker-compose up --build
 ```
